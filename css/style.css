@@ -48,7 +48,7 @@ a {
     text-decoration: none;
 }
 
-/* */
+/*Man-Leading-Marketing-Meeting Image*/
 
 .hero {
     height: 800px;
@@ -73,17 +73,6 @@ a {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
-
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
 }
 
 /* Search Engine Optimization & Online Reputation Management formatting*/
@@ -131,6 +120,17 @@ p {
 }
 
 /* Right side of the page description formatting. Lead, Brand, & Cost*/
+
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
 
 .benefit-descripters {
     margin-bottom: 50px;
