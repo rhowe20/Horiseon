@@ -8,7 +8,8 @@ Follow the link below to open the webpage for the Horiseon website.
 
 ## Usage 
 
-
+md
+![alt](assets/images/top-page.png)
 
 Provide instructions and examples for use. Include screenshots as needed. 
 
