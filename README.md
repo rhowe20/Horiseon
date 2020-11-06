@@ -4,7 +4,7 @@
 
 Follow the link below to open the webpage for the Horiseon website.
 
-https://github.com/rhowe20/Horiseon.git
+https://rhowe20.github.io/Horiseon/
 
 
 ## Usage 
