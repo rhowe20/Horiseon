@@ -4,12 +4,13 @@
 
 Follow the link below to open the webpage for the Horiseon website.
 
+https://github.com/rhowe20/Horiseon.git
 
 
 ## Usage 
 
 md
-![alt](assets/images/top-page.png)
+![alt](../assets/images/top-page.png)
 
 Provide instructions and examples for use. Include screenshots as needed. 
 
