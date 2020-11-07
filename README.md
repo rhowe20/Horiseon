@@ -9,17 +9,7 @@ https://rhowe20.github.io/Horiseon/
 
 ## Usage 
 
-md
-![alt](../assets/images/top-page.png)
-
-Provide instructions and examples for use. Include screenshots as needed. 
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```md
-![alt text](assets/images/screenshot.png)
-```
-
+![alt text](https://github.com/rhowe20/Horiseon/blob/main/images/top-page.png)
 
 ## Credits
 
