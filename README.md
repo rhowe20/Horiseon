@@ -21,7 +21,8 @@ The links titled "Search Engine Optimization" and "Online Reputation Management"
 
 ![Links to Search Engine Optimization and Online Reputation Management](https://github.com/rhowe20/Horiseon/blob/main/images/mid-section.png) 
 
-The "Social Media Marketing" link will then take you to the bottom of the pag.
+The "Social Media Marketing" link will then take you to the bottom of the page.
 
 ![Link to Social Media Marketing](https://github.com/rhowe20/Horiseon/blob/main/images/bottom-of-page.png)
+
 
