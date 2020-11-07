@@ -17,7 +17,11 @@ If you click the links in the navigation bar on the top of the page, it will dir
 
 ![Top of Page with Links](https://github.com/rhowe20/Horiseon/blob/main/images/top-page.png)
 
+The links titled "Search Engine Optimization" and "Online Reputation Management" will take you to the sections midway down the page.
+
 ![Links to Search Engine Optimization and Online Reputation Management](https://github.com/rhowe20/Horiseon/blob/main/images/mid-section.png) 
+
+The "Social Media Marketing" link will then take you to the bottom of the pag.
 
 ![Link to Social Media Marketing](https://github.com/rhowe20/Horiseon/blob/main/images/bottom-of-page.png)
 
