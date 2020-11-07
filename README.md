@@ -29,6 +29,6 @@ The "Social Media Marketing" link will then direct clients to the bottom of the 
 
 The first correction made were to the broken links directing clients to the different sections to the page. 
 
-The HTML is now formatted using symantic elements rather than using straight $ltdiv$gt.
+The HTML is now formatted using symantic elements rather than using straight div.
 
 CSS has been condensed to be more concise when reading the code.
